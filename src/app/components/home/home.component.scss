@@ -51,7 +51,7 @@
     transition-duration: .3s;
     cursor: pointer;
 
-    &-hover {
+    &:hover {
         box-shadow: 4px 3px 11px 6px rgb(200 152 44);
         transform: translateY(-3px);
     }
